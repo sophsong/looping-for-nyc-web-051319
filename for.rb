@@ -1,4 +1,7 @@
-using_for = 1..10
+def using_for 
+  using_for
+
+= 1..10
 for item in using_for 
   puts "Wingardium Leviosa"
 end
